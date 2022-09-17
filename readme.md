@@ -34,7 +34,7 @@ _{This is the digital version of the original game Tic Tac Toe"Noughts and Cross
 _{ Peradventure you run into an issue with the site or you have contibution on how to make the site better, feel free to contact us the conatct information is down below.}_
 
 ## Webpage link
-https://github.com/El3517/pig-Dice.git
+https://github.com/El3517/tictactoe.git
 
 ## Contact Information
 
